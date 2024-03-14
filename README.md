@@ -4,6 +4,7 @@
 I am a cybersecurity professional with a passion for learning and solving problems to better protect data.
 
 ## Objective
+I'm looking for opportunities to learn and grow! This page is dedicated to documenting my learning journey and show my skills & competencies.
 
 ## Skills
 | Skill                                         | Associated Project         |
