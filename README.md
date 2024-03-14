@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hey, I'm Joey!
+<a href="https://www.linkedin.com/in/william-joey-wilcox-06618720a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**joeywilcox/joeywilcox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+I am a cybersecurity professional with a passion for learning and solving problems to better protect data.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Tools
+
+### Network
+
+### Endpoint
+
+### SIEM
+
+## Certifications
+
+## Projects
