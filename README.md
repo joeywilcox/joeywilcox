@@ -34,6 +34,7 @@ I am a cybersecurity professional with a passion for learning and solving proble
 ### Network
 <div>
   <img src="https://img.shields.io/badge/-Palo%20Alto%20Networks-00509E?&style=for-the-badge&logo=Palo%20Alto%20Networks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubiquiti-FF0000?&style=for-the-badge&logo=Ubiquiti&logoColor=white" />
 </div>
 
 ### Miscellaneous
